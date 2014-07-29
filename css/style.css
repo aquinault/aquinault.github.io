@@ -32,7 +32,8 @@
 }
 
 .AQ-bg-img-overlay {
-	background: #c6b54e;
+	/* background: #c6b54e;*/
+	background: rgb(255, 192, 111);
 	margin:0;
 	padding:0;
 	height: 100%;
@@ -41,8 +42,8 @@
 	z-index:1;
 	top: 0;
 	left:0;
-	opacity:0.70;
-	filter: alpha(opacity=70);
+	opacity:0.60;
+	filter: alpha(opacity=60);
 	min-height: 100%;
 }
 
